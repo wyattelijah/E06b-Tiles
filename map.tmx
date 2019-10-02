@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="64" tileheight="64" infinite="0" backgroundcolor="#1864ab" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="Tiles" tilewidth="64" tileheight="64" tilecount="30" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="64" height="64" source="assets/green_00.png"/>
+  </tile>
+  <tile id="1">
+   <image width="64" height="64" source="assets/green_01.png"/>
+  </tile>
+  <tile id="2">
+   <image width="64" height="64" source="assets/green_02.png"/>
+  </tile>
+  <tile id="3">
+   <image width="64" height="64" source="assets/green_03.png"/>
+  </tile>
+  <tile id="4">
+   <image width="64" height="64" source="assets/green_04.png"/>
+  </tile>
+  <tile id="5">
+   <image width="64" height="64" source="assets/green_05.png"/>
+  </tile>
+  <tile id="6">
+   <image width="64" height="50" source="assets/green_06.png"/>
+  </tile>
+  <tile id="7">
+   <image width="64" height="50" source="assets/green_07.png"/>
+  </tile>
+  <tile id="8">
+   <image width="64" height="50" source="assets/green_08.png"/>
+  </tile>
+  <tile id="9">
+   <image width="64" height="50" source="assets/green_09.png"/>
+  </tile>
+  <tile id="10">
+   <image width="64" height="64" source="assets/green_10.png"/>
+  </tile>
+  <tile id="11">
+   <image width="64" height="64" source="assets/green_11.png"/>
+  </tile>
+  <tile id="12">
+   <image width="64" height="64" source="assets/green_12.png"/>
+  </tile>
+  <tile id="13">
+   <image width="64" height="64" source="assets/green_13.png"/>
+  </tile>
+  <tile id="14">
+   <image width="64" height="64" source="assets/green_14.png"/>
+  </tile>
+  <tile id="15">
+   <image width="32" height="30" source="assets/green_15.png"/>
+  </tile>
+  <tile id="16">
+   <image width="64" height="64" source="assets/green_16.png"/>
+  </tile>
+  <tile id="17">
+   <image width="64" height="64" source="assets/green_17.png"/>
+  </tile>
+  <tile id="18">
+   <image width="64" height="64" source="assets/green_18.png"/>
+  </tile>
+  <tile id="19">
+   <image width="64" height="64" source="assets/green_19.png"/>
+  </tile>
+  <tile id="20">
+   <image width="22" height="22" source="assets/green_20.png"/>
+  </tile>
+  <tile id="21">
+   <image width="64" height="64" source="assets/green_21.png"/>
+  </tile>
+  <tile id="22">
+   <image width="64" height="64" source="assets/green_22.png"/>
+  </tile>
+  <tile id="23">
+   <image width="64" height="64" source="assets/green_23.png"/>
+  </tile>
+  <tile id="24">
+   <image width="64" height="64" source="assets/green_24.png"/>
+  </tile>
+  <tile id="25">
+   <image width="24" height="22" source="assets/green_25.png"/>
+  </tile>
+  <tile id="26">
+   <image width="64" height="64" source="assets/green_26.png"/>
+  </tile>
+  <tile id="27">
+   <image width="64" height="64" source="assets/green_27.png"/>
+  </tile>
+  <tile id="28">
+   <image width="64" height="64" source="assets/green_28.png"/>
+  </tile>
+  <tile id="29">
+   <image width="64" height="64" source="assets/green_29.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <layer id="1" name="Platforms" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+  </data>
+ </layer>
+ <layer id="2" name="Coins" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwVAHAAfQAAE=
+  </data>
+ </layer>
+</map>
